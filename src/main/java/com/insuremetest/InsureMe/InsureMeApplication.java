@@ -56,7 +56,7 @@ public class InsureMeApplication {
     	
     	File srcFile= scrShot.getScreenshotAs(OutputType.FILE);
 
-    	File destFile = new File("/home/ubuntu/test-artifact/artifact.png");
+    	File destFile = new File("//var/lib/jenkins/workspace/test-pipeline/artifact.png");
     	
     	FileUtils.copyFile(srcFile, destFile);
     	
