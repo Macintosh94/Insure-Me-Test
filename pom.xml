@@ -87,7 +87,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.insuremetest.InsureMe.App</mainClass>
+            <mainClass>com.insuremetest.InsureMe</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>
