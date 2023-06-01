@@ -27,7 +27,7 @@ public class InsureMeApplication {
     	//open browser
     		
     	
-    	driver.get("http://54.226.140.109:8081/contact.html");
+    	driver.get("http://172.31.29.186:8081/contact.html");
     	Thread.sleep(2000);
     	//click on new contact 
         //driver.findElement(By.className("v-button")).click();
